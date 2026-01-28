@@ -1,0 +1,29 @@
+SEQUENCE QUALITY CONTROL REPORT
+Protein ID: CAI98291.1
+Sequence length: 320 amino acids
+
+Amino acid composition(%):
+A: 8.44
+C: 0.62
+D: 0.94
+E: 2.50
+F: 2.50
+G: 5.94
+H: 1.25
+I: 8.12
+K: 8.12
+L: 12.19
+M: 6.25
+N: 3.12
+P: 5.94
+Q: 8.44
+R: 2.50
+S: 7.19
+T: 6.25
+V: 5.94
+W: 1.25
+Y: 2.50
+
+Number of ambiguous residues (X): 0
+
+QC Decision: Sequence is suitable for dowstream analysis.
