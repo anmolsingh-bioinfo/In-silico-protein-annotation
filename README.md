@@ -37,6 +37,6 @@ The project demonstrates how unknown or initially hypothetical protein sequences
 
 ---
 ## Directory Strucutre
-data/ - Input FASTA sequence
-analysis/ - Pyhton scripts for QC and BLAST analysis
-results/- Output files generated at each step
+- data/ - Input FASTA sequence
+- analysis/ - Pyhton scripts for QC and BLAST analysis
+- results/- Output files generated at each step
