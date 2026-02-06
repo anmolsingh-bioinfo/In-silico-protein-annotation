@@ -117,30 +117,9 @@ This project demonstrates the application of a structured bioinformatics pipelin
 The study highlights the importance of homology-based annotation in functional genomics and emphasizes the need for cautious interpretation when relying solely on computational predictions.
 
 ---
-
-## Repository Structure
-n-silico-protein-functional-characterization/
-│
-├── data/
-│ └── input_sequence.fasta
-│
-├── analysis/
-│ ├── sequence_qc.py
-│ └── homology_analysis.py
-│
-├── results/
-│ ├── qc_summary.txt
-│ ├── blast_results.xml
-│ ├── blast_results.csv
-│ ├── top5_blast_hits.csv
-│ └── blast_interpretation.txt
-│
-├── Project_Report.pdf
-└── README.md
-
----
 ## Author
 **Anmol Singh**  
-B.Sc. Biotechnology
-School of Life Sciences and Biotechnology
-Chhatrapati Shahu Ji Maharaj Univeristy
+B.Sc. Biotechnology  
+School of Life Sciences and Biotechnology  
+Chhatrapati Shahu Ji Maharaj University, Kanpur
+
